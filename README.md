@@ -1,1 +1,6 @@
- <img src="https://electrostal.ru/image/?item=Material8835&dirtyAlias=1f7f30669f-1_1200x600.jpg"  alt="бюст"> 
+<body>
+
+ <h1> Бюст героя Советского Союза </h1>
+ 
+</body>
+<img src="https://electrostal.ru/image/?item=Material8835&dirtyAlias=1f7f30669f-1_1200x600.jpg"  alt="бюст"> 
