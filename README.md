@@ -1,1 +1,2 @@
-img src="<img width="192" height="243" alt="school" src="https://github.com/user-attachments/assets/3753bd6a-1f65-443e-917f-95037708fbf3" />"  alt="бюст"
+<img src="https://electrostal.ru/image/?item=Material8835&dirtyAlias=1f7f30669f-1_1200x600.jpg"  alt="бюст">
+<p>rgwegdessgesgsegsegsgsegesg</p>
