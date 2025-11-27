@@ -1,2 +1,3 @@
+<p>3twdgsesdgesg <img src="https://electrostal.ru/image/?item=Material8835&dirtyAlias=1f7f30669f-1_1200x600.jpg"  alt="бюст"> wewwfeerfgdzvb </p>
 
-<p>rgwegdessgesgsegsegsgsegesg <img src="https://electrostal.ru/image/?item=Material8835&dirtyAlias=1f7f30669f-1_1200x600.jpg"  alt="бюст" height_rect="100" wigth_rect="160"> gewgdshbgehsihdfeg</p>
+<hr />
